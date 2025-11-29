@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environments
+venv/
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Ignore Hashcat potfile
+hashcat.potfile
