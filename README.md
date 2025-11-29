@@ -63,7 +63,7 @@ hashcat -a 0 -m 17400 hash1.txt /usr/share/wordlists/rockyou.txt -o crackedhash1
 
 -a 0 → dictionary attack
 
--m 17400 → specific hash mode
+-m 0 → specific hash mode
 
 Output saved to: crackedhash1.txt
 
